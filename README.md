@@ -1,58 +1,39 @@
-# CodeAlpha_Titanic_Data_Visualization
-# Titanic Dataset – Exploratory Data Analysis
+# Titanic Dataset – Data Visualization
 
 ## Project Overview
 
 This project was completed as part of the CodeAlpha Data Analytics Internship.
 
-The objective of this project is to perform Exploratory Data Analysis (EDA) on the Titanic passenger dataset and identify meaningful patterns and insights from the data.
+The objective of this project is to transform the Titanic dataset into meaningful visualizations and identify important patterns and insights.
 
 ## Tools and Technologies
 
 * Python
 * Jupyter Notebook
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 
-## Dataset
+## Visualizations Created
 
-The Titanic dataset contains information about passengers, including:
+* Survival Distribution
+* Survival Rate by Gender
+* Survival Rate by Passenger Class
+* Age Distribution
+* Fare Distribution by Passenger Class
+* Correlation Heatmap
+* Survival Rate: Alone vs With Family
 
-* Passenger class
-* Gender
-* Age
-* Fare
-* Number of siblings/spouses
-* Number of parents/children
-* Survival status
-* Embarkation information
+## Key Insights
 
-## Analysis Performed
-
-* Dataset structure analysis
-* Missing value detection
-* Data cleaning
-* Duplicate checking
-* Statistical analysis
-* Survival rate analysis
-* Gender-based survival analysis
-* Passenger class analysis
-* Age distribution analysis
-* Fare analysis
-* Travel status analysis
-
-## Key Findings
-
-The analysis identified differences in survival patterns based on gender and passenger class. The project also explored passenger age, fare distribution, and whether passengers travelled alone.
+The visualizations show that survival patterns were strongly influenced by gender and passenger class. Female passengers had a higher survival rate, while passengers in higher classes generally had better chances of survival.
 
 ## Conclusion
 
-This project demonstrates how Exploratory Data Analysis can be used to clean a dataset, identify patterns, detect data issues, and generate useful insights using Python.
+This project demonstrates how data visualization can transform raw data into clear and meaningful insights using Python, Matplotlib, and Seaborn.
 
 ## Internship
 
 **CodeAlpha – Data Analytics Internship**
 
-Task: Exploratory Data Analysis
+Task: Data Visualization
